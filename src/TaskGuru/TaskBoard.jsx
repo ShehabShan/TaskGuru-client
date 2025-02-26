@@ -15,7 +15,7 @@ import TaskCard from "./TaskCard";
 import AddTaskModal from "./AddTaskModal";
 import Navbar from "../Pages/Navbar";
 
-const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000";
+const API_URL = "https://taskguru-server-production.up.railway.app";
 
 const TaskBoard = () => {
   const [tasks, setTasks] = useState([]);
