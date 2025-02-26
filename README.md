@@ -51,12 +51,11 @@ This project uses the following dependencies:
 ### **Installation**
 To install dependencies, run:
 
-```sh
-npm install
+ npm install
 
 
 
-## Technologies Used
+## 🚀 Technologies Used
 
 This project is built using the following technologies:
 
@@ -84,7 +83,6 @@ This project is built using the following technologies:
 
 ### **Development & Tooling**
 - **ESLint** - JavaScript and React linting  
-- **Vite** - Lightning-fast development and build tooling  
-
+- **Vite** - Lightning-fast development and build tooling 
 
 
